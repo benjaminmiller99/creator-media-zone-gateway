@@ -1,0 +1,21 @@
+{
+  "name": "creator-media-zone-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/creator_delivery_service.ts",
+    "publish:demo": "tsx src/publish_demo.ts",
+    "test": "tsx --test test/delivery_policy.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "tldts": "^7.4.16",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
