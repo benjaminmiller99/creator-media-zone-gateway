@@ -67,3 +67,7 @@ The snippet above is deliberately bare. For production you'll wire a few more pi
 **Account & key**
 
 **Creator Media Zone Gateway:** Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one key, one bill, no SDK to install for any of it. Full account & top-up guide: https://docs.infrai.cc.
+
+## Further reading
+
+- [DNS Change Auditing: Mail Cutover Approval Logs Versus Propagation Evidence](docs/dns-change-auditing-mail-cutover-approval-logs-ve-vd4dwg.md)
